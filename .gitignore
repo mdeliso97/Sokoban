@@ -1,0 +1,7 @@
+/bin/
+/.idea/
+/.vscode/
+/.classpath
+/.project
+/exercise_05.iml
+/target/
