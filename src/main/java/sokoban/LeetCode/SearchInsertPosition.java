@@ -1,4 +1,4 @@
-package sokoban;
+package sokoban.LeetCode;
 
 // 35. Search Insert Position O(log(n))
 public class SearchInsertPosition {
@@ -47,6 +47,6 @@ public class SearchInsertPosition {
         int[] nums = {1,5,8,10, 11, 15, 16, 16, 18};
         int target = 19;
 
-        System.out.print(searchInsert(nums, target));
+        System.out.println("Solution:" + searchInsert(nums, target));
     }
 }
